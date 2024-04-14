@@ -1,0 +1,18 @@
+#Nav{
+    width: 100%;
+}
+.navbar-transparent {
+  background-color: transparent !important; /* Hace que la barra de navegación sea transparente */
+  backdrop-filter: blur(10px); /* Agrega un efecto de desenfoque al fondo */
+}
+
+.fixed-top {
+    margin-bottom: 50px; /* Ajusta el valor según la separación deseada */
+  }
+  
+  @media (min-width: 768px) {
+    .navbar-nav {
+      flex-direction: row;
+    }
+  }
+  
