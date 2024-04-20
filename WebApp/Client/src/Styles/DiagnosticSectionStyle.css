@@ -1,0 +1,16 @@
+#Diagnostic-section{
+    color: white;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+h2, p{
+    text-align: justify;
+}
+
+
+#Container-text{
+    padding: 0;
+    margin: 0;
+}

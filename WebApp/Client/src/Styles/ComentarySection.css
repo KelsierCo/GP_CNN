@@ -1,0 +1,19 @@
+.ComentarySection{
+    align-items: center;
+    padding: 10%;
+    background-color: #161b26;
+}
+
+#ComentarySection{
+    align-items: center;
+    padding: 10%;
+    background-color: #161b26;
+}
+
+#BtnComentary{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(9,100,121,1) 35%, rgba(0,0,0,1) 100%);
+    color: white;
+    border-bottom: white;
+    border-right: white;
+    border-style: double;
+}

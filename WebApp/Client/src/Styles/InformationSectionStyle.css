@@ -1,0 +1,10 @@
+
+.Information-section{
+    text-align: justify;
+    padding: 2px;
+}
+
+.StadisticImageContainer{
+    display: flex;
+    justify-content: center;
+}
