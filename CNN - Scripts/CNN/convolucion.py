@@ -27,7 +27,6 @@ class Convolucion:
         ex = np.zeros_like(imagen)
         ep = np.zeros_like(self.filtros)
         eb = np.zeros_like(self.bias)
-        print(error)
 
         for i in range(error.shape[0]):
             for j in range(error.shape[1]):
